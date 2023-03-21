@@ -1,0 +1,1 @@
+<a href="<?php echo e(route('r1')); ?>">r1</a><?php /**PATH C:\xampp\htdocs\project-name\resources\views/page.blade.php ENDPATH**/ ?>
